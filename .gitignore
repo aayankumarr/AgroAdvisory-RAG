@@ -1,0 +1,16 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pkl
+*.h5
+*.pt
+*.bin
+
+# Data
+*.csv
+*.json
+data/
+
+# Node
+node_modules/

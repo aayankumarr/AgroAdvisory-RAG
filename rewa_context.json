@@ -1,0 +1,144 @@
+{
+  "location": "Rewa, Madhya Pradesh",
+  "weather_forecast": [
+    {
+      "Date": "2025-07-07",
+      "Condition": "Patchy rain nearby",
+      "Avg Temp (\u00b0C)": 31.4,
+      "Max Temp (\u00b0C)": 34.0,
+      "Min Temp (\u00b0C)": 28.4,
+      "Rainfall (mm)": 1.12,
+      "Humidity (%)": 63
+    },
+    {
+      "Date": "2025-07-08",
+      "Condition": "Patchy rain nearby",
+      "Avg Temp (\u00b0C)": 30.6,
+      "Max Temp (\u00b0C)": 34.0,
+      "Min Temp (\u00b0C)": 27.4,
+      "Rainfall (mm)": 2.74,
+      "Humidity (%)": 66
+    },
+    {
+      "Date": "2025-07-09",
+      "Condition": "Moderate rain",
+      "Avg Temp (\u00b0C)": 29.2,
+      "Max Temp (\u00b0C)": 32.8,
+      "Min Temp (\u00b0C)": 26.6,
+      "Rainfall (mm)": 18.47,
+      "Humidity (%)": 73
+    }
+  ],
+  "mandi_prices": [
+    {
+      "Commodity": "Wheat",
+      "Arrival Date": "04/07/2025",
+      "Variety": "Mill Quality",
+      "State": "Madhya Pradesh",
+      "District": "Rewa",
+      "Market": "Rewa",
+      "Min Price": "Rs 2440 / Quintal",
+      "Max Price": "Rs 2440 / Quintal",
+      "Avg Price": "Rs 2440 / Quintal"
+    },
+    {
+      "Commodity": "Wheat",
+      "Arrival Date": "02/07/2025",
+      "Variety": "Mill Quality",
+      "State": "Madhya Pradesh",
+      "District": "Rewa",
+      "Market": "Rewa",
+      "Min Price": "Rs 2403 / Quintal",
+      "Max Price": "Rs 2467 / Quintal",
+      "Avg Price": "Rs 2467 / Quintal"
+    },
+    {
+      "Commodity": "Wheat",
+      "Arrival Date": "01/07/2025",
+      "Variety": "Mill Quality",
+      "State": "Madhya Pradesh",
+      "District": "Rewa",
+      "Market": "Rewa",
+      "Min Price": "Rs 2465 / Quintal",
+      "Max Price": "Rs 2465 / Quintal",
+      "Avg Price": "Rs 2465 / Quintal"
+    },
+    {
+      "Commodity": "Wheat",
+      "Arrival Date": "30/06/2025",
+      "Variety": "Mill Quality",
+      "State": "Madhya Pradesh",
+      "District": "Rewa",
+      "Market": "Rewa",
+      "Min Price": "Rs 2458 / Quintal",
+      "Max Price": "Rs 2468 / Quintal",
+      "Avg Price": "Rs 2468 / Quintal"
+    },
+    {
+      "Commodity": "Wheat",
+      "Arrival Date": "27/06/2025",
+      "Variety": "Wheat",
+      "State": "Madhya Pradesh",
+      "District": "Rewa",
+      "Market": "Rewa",
+      "Min Price": "Rs 2430 / Quintal",
+      "Max Price": "Rs 2435 / Quintal",
+      "Avg Price": "Rs 2435 / Quintal"
+    },
+    {
+      "Commodity": "Wheat",
+      "Arrival Date": "26/06/2025",
+      "Variety": "Mill Quality",
+      "State": "Madhya Pradesh",
+      "District": "Rewa",
+      "Market": "Rewa",
+      "Min Price": "Rs 2455 / Quintal",
+      "Max Price": "Rs 2460 / Quintal",
+      "Avg Price": "Rs 2455 / Quintal"
+    },
+    {
+      "Commodity": "Wheat",
+      "Arrival Date": "26/06/2025",
+      "Variety": "Wheat",
+      "State": "Madhya Pradesh",
+      "District": "Rewa",
+      "Market": "Rewa",
+      "Min Price": "Rs 2435 / Quintal",
+      "Max Price": "Rs 2440 / Quintal",
+      "Avg Price": "Rs 2440 / Quintal"
+    },
+    {
+      "Commodity": "Wheat",
+      "Arrival Date": "25/06/2025",
+      "Variety": "Mill Quality",
+      "State": "Madhya Pradesh",
+      "District": "Rewa",
+      "Market": "Rewa",
+      "Min Price": "Rs 2460 / Quintal",
+      "Max Price": "Rs 2480 / Quintal",
+      "Avg Price": "Rs 2480 / Quintal"
+    },
+    {
+      "Commodity": "Wheat",
+      "Arrival Date": "25/06/2025",
+      "Variety": "Wheat",
+      "State": "Madhya Pradesh",
+      "District": "Rewa",
+      "Market": "Rewa",
+      "Min Price": "Rs 2450 / Quintal",
+      "Max Price": "Rs 2450 / Quintal",
+      "Avg Price": "Rs 2450 / Quintal"
+    },
+    {
+      "Commodity": "Wheat",
+      "Arrival Date": "23/06/2025",
+      "Variety": "Mill Quality",
+      "State": "Madhya Pradesh",
+      "District": "Rewa",
+      "Market": "Rewa",
+      "Min Price": "Rs 2300 / Quintal",
+      "Max Price": "Rs 2520 / Quintal",
+      "Avg Price": "Rs 2520 / Quintal"
+    }
+  ]
+}
